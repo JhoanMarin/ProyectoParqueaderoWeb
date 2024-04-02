@@ -1,0 +1,5 @@
+controlador\Validar.class
+com\mycompany\sistemaventasweb\resources\JakartaEE8Resource.class
+config\Conexion.class
+com\mycompany\sistemaventasweb\JakartaRestConfiguration.class
+controlador\Controlador.class
